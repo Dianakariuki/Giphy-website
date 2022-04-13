@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Welcome to GiphySearch';
+  performSearch(): void {
+    console.log('button click is working');
+}
 }
