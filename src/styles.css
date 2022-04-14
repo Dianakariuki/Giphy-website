@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import "https://bootswatch.com/cosmo/bootstrap.min.css";
+*{margin: 0;
+padding: 0;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
