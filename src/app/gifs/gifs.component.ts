@@ -20,3 +20,4 @@ this.gifs = response.data;
   }
 
 }
+

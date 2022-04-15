@@ -1,7 +1,33 @@
-nav{
+#nav{
     background-color: black;
-    text-align: center;
+    
     padding: 15px;
     color: white;
     font-size: 20px;
+    width: 55%;
 }
+.a{
+    text-align: center;
+}
+
+.nav-link{
+    color: white;
+    font-family: interface;
+    font-style: normal;
+    font-weight: 900;
+    padding-right: 7%;
+}
+.navbar-brand{
+    font-size: 50px;
+    font-style: normal;
+    font-family: interface sans-serif;
+    font-weight: 1000;
+    color: white;
+    padding-left: 4%;
+    padding-right: 4%;}
+
+    #user{
+        margin-left: 70px;
+    }
+    nav a:hover, nav a:focus {
+        background-color: rgb(39, 39, 124);}

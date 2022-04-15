@@ -16,10 +16,11 @@ export class SearchComponent implements OnInit {
   search(searchTerm: string){
  if(searchTerm!== ''){
       this.dataService.searchGifs()
-      .subscribe((response:any) => {
-      console.log('Search Data',response);
-
-  });
+     
+      .subscribe((response:any) =>{
+        console.log(response);
+  this.search = response.data;
+    });
   }
     
 }
