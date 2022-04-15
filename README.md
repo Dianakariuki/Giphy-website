@@ -1,4 +1,8 @@
-# GiphySearch
+# Giphy website clone
+##### by Diana kariuki
+#### This is Giphy website clone using Giphy Api
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
 
